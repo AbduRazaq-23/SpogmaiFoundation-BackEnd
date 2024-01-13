@@ -1,0 +1,15 @@
+{
+  "name": "spogmaifoundation",
+  "version": "1.0.0",
+  "description": "spogami foundation backend using node express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "mern"
+  ],
+  "author": "Abdu Razaq",
+  "license": "ISC"
+}
