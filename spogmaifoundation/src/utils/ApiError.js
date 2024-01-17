@@ -23,9 +23,3 @@ class ApiError extends Error {
 }
 
 export { ApiError };
-
-console.log(ApiError.message);
-console.log(ApiError.statusCode);
-console.log(ApiError.stack);
-console.log(ApiError.errors);
-console.log(ApiError.success);
